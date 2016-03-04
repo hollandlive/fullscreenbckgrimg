@@ -4,6 +4,7 @@
 * Version 1.0
 * Used Technologies: HTML5/CSS3/Bootstrap3.5/JS/JQuery 
 * Demo: http://arthem.info/fullscreenimg/index16.html
+* This is example
 */
 
 'use strict';
