@@ -1,3 +1,14 @@
+# [Full Screen Backgroud Image] (http://arthem.info/fullscreenimg/index16.html)
+For this template I customized a Bootstrap Template from Start Bootstrap (references below)
+
+Then I have asked permission of a friend to use a photo at http://sarpdemirel.hol.es/portfolio/product-photos/ (web-site I did create in WP)
+
+Added Custom CSS3
+
+Added Custom JQuery. 
+
+The final result is at http://arthem.info/fullscreenimg/index16.html
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Full](http://startbootstrap.com/template-overviews/full/)
 
 [Full](http://startbootstrap.com/template-overviews/full/) is full page background image HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
